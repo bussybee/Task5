@@ -19,7 +19,6 @@ public class Main {
             }
             for (int j = 0; j <= h - i; j++) {
                 System.out.print("\\");
-
             }
             System.out.println();
         }
